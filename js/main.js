@@ -33,7 +33,7 @@ validate();
 
 
 function sendmail(name, email, message) {
-    emailjs.send("service_dizz52j","template_o2fkul7",{
+    emailjs.send("","",{
         from_name: email,
         to_name: name,
         message: message,

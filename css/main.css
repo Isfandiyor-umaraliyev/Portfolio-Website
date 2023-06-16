@@ -324,6 +324,7 @@ header {
 .services-box:hover {
     transform: scale(1.05);
     transition: 0.5s all cubic-bezier(0.075, 0.82, 0.165, 1);
+    
 }
 
 .services-box .bx {
